@@ -2250,3 +2250,7 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+div.content{
+  scroll-padding-block-end: 2%;
+}
